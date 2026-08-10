@@ -1,30 +1,15 @@
-# Python Student Grade Calculator
+## Example Output
 
-A beginner-friendly Python project that calculates a student's total marks, percentage, and grade.
+===== Student Grade Calculator =====
 
-## Features
+Enter student name: Sakshi
+Enter Maths marks (0-100): 85
+Enter Python marks (0-100): 92
+Enter Science marks (0-100): 78
 
-- Takes student name as input
-- Accepts marks for three subjects
-- Calculates total marks
-- Calculates percentage
-- Displays the student's grade
-
-## Technologies Used
-
-- Python
-
-## Concepts Used
-
-- Variables
-- User Input
-- Data Types
-- Arithmetic Operators
-- Conditional Statements
-- If-elif-else
-
-## How to Run
-
-Run the following command:
-
-python grade_calculator.py
+===== Student Result =====
+Name: Sakshi
+Total Marks: 255.0 / 300
+Percentage: 85.0 %
+Grade: A
+Result: PASS
